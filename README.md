@@ -1,2 +1,2 @@
 # tindog_3rd_project
-angela yuy tindog project
+angela yu tindog project
